@@ -1,0 +1,122 @@
+
+/* #nav-bar{
+    
+    padding-left: 20px;
+    height: 110px;
+} */
+.torlogo{
+    width: 80px;
+    height: 50px;
+}
+.donate{
+    color: #000;
+    background:#ffbf00;
+    padding: 5px 5px 5px 5px;
+    margin-left: 10px;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: 500;
+}
+    /* .navbar-nav{
+        margin-bottom: -10px;
+        margin-left: 100px;
+    } */
+/* #drop{
+    /* margin-left: 200px; 
+} */
+.download{
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.download:hover{
+    background: #fff;
+    color: #000;
+}
+.download1{
+    color: #59316b;
+    background: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 201px;
+    height: 38px;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-left: 15px;
+    /* vertical-align: middle; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.head-bgcolour{
+    background: #59316b;
+    width: 100%;
+}
+.grid-head{
+    color: #59316b;
+    font-size: 1.5rem;
+}
+.custom-image{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+.about{
+    color: #59316b;
+}
+.meet{
+    color: #59316b;
+    text-decoration: none;
+}
+.meet:hover{
+    color: #2f173a;
+    text-decoration: underline;
+}
+footer{
+    background: #59316b;
+}
+.footer-image{
+    margin-left: -610px;
+    width: 700px;
+    height: auto;
+}
+.list{
+    list-style: none;
+}
+.sign{
+    background: #2f173a;;
+}
+.fb{
+    width: 51px;
+    height: 26px;
+    margin-top: -20px;
+}
+.mi{
+    width: 51px;
+    height: 26px;
+    margin-top: -20px;
+}
+.insta, .twitter, .linkedin{
+    width: 51px;
+    height: 26px;
+    margin-top: -20px;
+}
+.git{
+    width: 51px;
+    height: 26px;
+    margin-top: 20px;
+}
+.tele{
+    font-size: 25px;
+    margin-top: -25px;
+}
+.lab{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: -23px;
+}
+.eng{
+    background: #8a50a4;
+}
